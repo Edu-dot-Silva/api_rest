@@ -1,0 +1,22 @@
+# botao direito e abrir o terminal integrado e fazer esses comandos antes de iniciar o projeto
+
+# para entrar na pasta js
+# cd js
+
+# para voltar um nivel
+# cd..
+
+# para instalar o pacote json
+# npm init -y
+
+# para instalar o express
+# npm install express
+
+# para instalar o pacote cors
+# npm install cors
+
+# para rodar o servidor criado em index.js na raiz do projeto
+# node .\index.js  
+
+# url para testar a soma,o ? indica atribuição de valores para os parametros da funcao
+# http://localhost:3000/api/somar?numero1=10&numero2=20
